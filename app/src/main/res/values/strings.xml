@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="text1">1</string>
+    <string name="text2">2</string>
+    <string name="text3">3</string>
+    <string name="text_fragment1">Create new notification 1</string>
+    <string name="text_fragment2">Create new notification 2</string>
+    <string name="text_fragment3">Create new notification 3</string>
+    <string name="text_fragment4">Create new notification 4</string>
+    <string name="text_fragment5">Create new notification 5</string>
+</resources>
